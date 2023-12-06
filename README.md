@@ -15,6 +15,7 @@ OWF stands for OZONE Widget Framework. It is a framework that allows data from d
 * Supports OWF and HTML5 messaging interfaces.
 
 * Automatic formatting, search, replace, clear, undo, and redo for JSON messages with a built-in JSON editor.
+
 ![Format](docs/format.webp)
 
 * Integrates with the [CMAPI Bucket](https://github.com/Aknbb/cmapi-bucket) application, allowing it to fetch messages hosted in the [CMAPI Bucket](https://github.com/Aknbb/cmapi-bucket) on startup and enabling their usage.
@@ -24,6 +25,7 @@ OWF stands for OZONE Widget Framework. It is a framework that allows data from d
 * Allows searching among messages.
 
 * Enables adding TAGs to messages to be saved in the [CMAPI Bucket](https://github.com/Aknbb/cmapi-bucket), making it easy to find the relevant message by searching for the TAG.
+
 ![Search](docs/search.webp)
 
 * Optionally, remembers authentication information for 6 hours by storing it in the cookie.
