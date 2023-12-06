@@ -1,4 +1,4 @@
-# CMAPI Shouter ![icon](public/favicon.ico)
+# CMAPI Shouter <img src="public/favicon.ico" width="32">
 
 CMAPI Shouter is a single-page application developed using React. The purpose of this project is to organize and format messages in CMAPI standard and broadcast them to maps via OWF or HTML5 interfaces.
 
